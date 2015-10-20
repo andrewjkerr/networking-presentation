@@ -59,6 +59,20 @@
 
 ---
 
+![fit left](imgs/slack.png)
+## whoami
+
+- Fifth year Software Engineering @ UF
+- Secretary of UFSIT for > 2yrs
+- Full stack web developer
+- Former security intern at Tumblr
+- Former intern at BlockScore
+- Reach me @andrew on UF CISE Slack
+
+^ hmu if you have questions or w/e
+
+---
+
 ## Topics
 
 ^ We've got a lot...........
@@ -494,3 +508,121 @@ Transfer-Encoding:chunked
 ---
 
 ## Ok, Wireshark time!
+
+^ Demo
+
+---
+
+## Need just HTTP info?
+
+---
+
+## Chrome Inspector to the rescue!
+
+^ Demo
+
+---
+
+## APIs
+
+^ Last topic for today
+
+---
+
+## APIs
+
+- APIs normally use HTTP to communicate
+
+---
+
+## APIs
+
+- APIs normally use HTTP to communicate
+- Different types of APIs, but want to focus on one
+
+---
+
+## REST APIs
+
+- REpresentational State Transfer (REST)
+
+---
+
+## REST APIs
+
+- REpresentational State Transfer (REST)
+- Resources are identified with a URI
+    + Ex: `/clubs/sit`
+
+---
+
+## REST APIs
+
+- REpresentational State Transfer (REST)
+- Resources are identified with a URI
+    + Ex: `/clubs/sit`
+- Resources can be operated with HTTP verbs
+    + Ex: `DELETE /clubs/sit`
+
+---
+
+## HTTP Verbs
+
+^ Didn't talk about them earlier so we'll talk about them in the context of APIs
+
+---
+
+## HTTP Verbs
+
+- GET
+- POST
+- PUT
+- DELETE
+
+^ To refresh...
+
+---
+
+## GET
+
+- "Get" data from a resource
+
+---
+
+## GET
+
+- "Get" data from a resource
+- Pretty easy, eh?
+
+---
+
+## DELETE
+
+- "Delete" the resource
+
+---
+
+## POST
+
+- "Create" a resource
+
+---
+
+## PUT
+
+- "Modify" a resource
+
+---
+
+## Best way to communicate?
+
+^ As we saw earlier, fetching a page with web browser used GET
+
+---
+
+## Postman
+
+---
+
+## Postman
+### (punny, right?)
